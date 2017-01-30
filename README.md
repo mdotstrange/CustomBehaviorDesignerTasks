@@ -7,6 +7,8 @@ If you want to tip me for helping you grow your trees
 [paypal here](https://pledgie.com/campaigns/13952)
 bitcoin == 17PUcU7tdhhghvwwximtigGGqvp6pcfUzk
 
+## If you want all the tasks just download the "mdsBDTasks" package file
+
 ### Some of these tasks use custom variable types- get them in the varTypes folder
 ![alt text](http://i.imgur.com/n9iJeHz.png)
 
