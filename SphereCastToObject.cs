@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using HutongGames.PlayMaker.Actions;
 
 namespace BehaviorDesigner.Runtime.Tasks.Basic.UnityPhysics
 {
@@ -10,10 +9,7 @@ namespace BehaviorDesigner.Runtime.Tasks.Basic.UnityPhysics
     {
         [Tooltip("Start ray at game object position. \nOr use From Position parameter.")]
         public SharedGameObject fromGameObject;
-
-        //public SharedBool matchHitObject;
-
-        //public SharedGameObject HitObject2Match;
+   
 
         [Tooltip("Start ray at a vector3 world position. \nOr use Game Object parameter.")]
         public SharedVector3 fromPosition;
