@@ -3,12 +3,6 @@
 This is a dump of my custom Behavior Designer tasks I've made or modded for my own projects-
 I hope they are useful to some other BD users out there ^_^
 
-If you want to tip me for helping you grow your trees
-[paypal here](https://pledgie.com/campaigns/13952)
-bitcoin == 17PUcU7tdhhghvwwximtigGGqvp6pcfUzk
-
-## If you want all the tasks just download the "mdsBDTasks" package file
-
 ### Some of these tasks use custom variable types- get them in the varTypes folder
 ![alt text](http://i.imgur.com/n9iJeHz.png)
 
