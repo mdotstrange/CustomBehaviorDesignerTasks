@@ -113,6 +113,12 @@ Remaps a floats value using min/max of another value
 
 Returns success if the object is contained in the list
 
+## Generate Waypoints
+
+![alt text](https://i.imgur.com/dFIZsgd.png)
+
+Procedurally generates waypoints and stores them in a list to be used with the Patrol task
+
 
 ## Get Bool On Other Tree
 
