@@ -7,6 +7,7 @@ using UnityEngine.AI;
 using System.Collections;
 using System.Collections.Generic;
 
+//Requires DoTween(free) and More Effective Coroutines(free)
 
 public class SeekFlying : Action
 {
